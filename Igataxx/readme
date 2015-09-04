@@ -1,0 +1,21 @@
+
+The Igataxx Game Source Code
+
+Environment:    Console (Window Based)
+Operating System:   Linux (kernel 2.2.14-12)
+Programming Language:   C, Unix Shell
+Comments:   I wrote this game not for fun but to learn the Gimp Tool Kit. I used gtk+ ver 6.1.2
+
+Description
+
+The Igataxx game is a replication of the actual game gataxx originally written by Chris Rogers, but Igataxx uses C language interface for developing the GUI needed for it using gtk+ tool kit on Linux Platform.
+
+Program : The Igataxx Game 
+Author : G. Uday Kiran Reddy 
+Date : Jan 22, 2001 
+
+
+List of Program Files
+
+main.h, callbacks.h, support.h, mytimer.h,
+main.c, callbacks.c, support.c, mytimer.c, 

@@ -1,0 +1,16 @@
+
+The Freecell Game Source Code
+
+Environment:    Console (Graphics Based)
+Operating System:   MS-DOS
+Programming Language:   C
+
+Program : The Freecell Game 
+Author : G. Uday Kiran Reddy 
+Date : July 18, 1999 
+
+
+List of Program Files
+
+(defs.h, freecell.c, mytools.h, mytools.c) 
+
